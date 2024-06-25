@@ -8,16 +8,6 @@ I'm Hunter Purevbayar, a rising senior at Tufts University, pursuing a B.A. in C
 - 🌟 Open to job opportunities in ML, SWE, and cybersecurity
 - 🎓 Expected graduation: May 2025
 
-## 🧙🏻‍♂️ Skills
-
-### Languages
-- **Proficient:** C, C++, Python, TypeScript, JavaScript, SQL, Java, R
-
-### Frameworks & Tools
-- **Machine Learning:** PyTorch, DeepSpeed, OpenCV
-- **Web Development:** React, Redux, MongoDB, PostgreSQL
-- **Other Tools:** Docker, Git, Websockets
-
 ## 👨‍💻 Projects
 
 ### [Virtual Machine](https://github.com/khanturr/Universal-Machine)
