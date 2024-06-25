@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hunter!
-Rising Senior @ Tufts University '25
+<h1 align="center">Hi 👋, I'm Hunter! <break></break>
 </h1>
 
 - 🔭 I’m currently working on **Full Stack Development @ Clinically**
