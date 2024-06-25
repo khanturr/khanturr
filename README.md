@@ -1,6 +1,11 @@
 # Hi there, I'm Hunter Purevbayar 👋
 
-![GitHub Banner](https://user-images.githubusercontent.com/your-image-link)
+  _   _      _ _         __        __         _     _ _
+ | | | | ___| | | ___    \ \      / /__  _ __| | __| | |
+ | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
+ |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
+ |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_(_)
+                     |/
 
 ## About Me
 
