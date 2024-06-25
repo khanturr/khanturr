@@ -1,15 +1,51 @@
-<h1 align="center">Hi 👋, I'm Hunter! <break></break>
-</h1>
+# Hi there, I'm Hunter Purevbayar 👋
 
-- 🔭 I’m currently working on **Full Stack Development @ Clinically**
+![GitHub Banner](https://user-images.githubusercontent.com/your-image-link)
 
-- 🌱 Learning **TouchDesigner**
+## About Me
 
-- 👨‍💻 Checkout my website at [http://khantur.000webhostapp.com](http://khantur.000webhostapp.com)
+I'm Hunter Purevbayar, a rising senior at Tufts University, pursuing a B.A. in Computer Science and Engineering Management. I'm passionate about machine learning, cybersecurity, and full-stack development. My journey has taken me through diverse projects and internships, where I've had the opportunity to lead teams, develop innovative solutions, and contribute to impactful research.
 
-- 🎸 Repeat song: [5 TO 10 - Don Toliver](https://www.youtube.com/watch?v=SIsHuBbo9mI)
+- 📍 Based in Medford, MA
+- 🌟 Open to job opportunities in machine learning, software engineering, and cybersecurity
+- 🎓 Expected graduation: May 2025
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hunter-purevbayar-b66630235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hunter-purevbayar-b66630235/" height="30" width="40" /></a>
-</p>
+## Skills
+
+### Languages
+- **Proficient:** C, C++, Python, TypeScript, JavaScript, SQL, Java, R
+
+### Frameworks & Tools
+- **Machine Learning:** PyTorch, DeepSpeed, OpenCV
+- **Web Development:** React, Redux, MongoDB, PostgreSQL
+- **Other Tools:** Docker, Git, Websockets
+
+## Experience
+
+### Technical Lead at Uzel
+### Machine Learning Engineer Intern at E-Clinic
+### Research Assistant at Human-Robot Interaction Lab, Tufts University
+### Full Stack Developer Intern at SkyIT Services
+
+## Projects
+
+### Virtual Machine
+- Developed a Turing-complete 14 instruction-set universal machine emulator in C.
+
+### Language Translation
+- Trained an English-to-Mongolian translation model using an encoder-decoder architecture.
+
+### Image Compressor
+- Created a PPM image compressor using discrete cosine transformation in C.
+
+### CyberAlert
+- Built a cybersecurity model that analyzes and alerts suspicious network activity in Python.
+
+### Playground
+- Developed an online code sandbox for web development practice in TypeScript.
+
+## Get in Touch
+
+- 📫 Email: [hunter.purevbayar@tufts.edu](mailto:hunter.purevbayar@tufts.edu)
+- 💼 LinkedIn: [Hunter Purevbayar](https://www.linkedin.com/in/hunterpurevbayar)
+- 🐙 GitHub: [khanturr](https://github.com/khanturr)
