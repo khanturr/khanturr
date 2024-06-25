@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hunter Purevbayar</h1>
-
-<h3 align="left">About me</h3>
+<h1 align="center">Hi 👋, I'm Hunter!
 Rising Senior @ Tufts University '25
-</p>
+</h1>
 
 - 🔭 I’m currently working on **Full Stack Development @ Clinically**
 
