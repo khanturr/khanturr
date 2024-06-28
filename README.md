@@ -12,7 +12,7 @@ I'm Hunter Purevbayar, a rising senior at Tufts University, pursuing a B.A. in C
 
 ### [Virtual Machine](https://github.com/khanturr/Universal-Machine)
 - Developed a Turing-complete 14 instruction-set universal machine emulator in C.
-### [Language Translation](https://github.com/khanturr/Universal-Machine)
+### [Language Translation](https://github.com/khanturr/Language-Translation)
 - Trained an English-to-Mongolian translation model using an encoder-decoder architecture.
 ### [Image Compressor](https://github.com/khanturr/Image-Compressor)
 - Created a PPM image compressor using discrete cosine transformation in C.
