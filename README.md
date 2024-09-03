@@ -2,7 +2,7 @@
 
 ## 🎸 About Me
 
-I'm Hunter Purevbayar, a rising senior at Tufts University, pursuing a B.A. in Computer Science and Engineering Management. I'm passionate about machine learning, cybersecurity, and full-stack development.
+I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.A. in Computer Science and Engineering Management. I'm passionate about machine learning, cybersecurity, and full-stack development.
 
 - 📍 Based in Boston, MA
 - 🌟 Open to job opportunities in ML, SWE, and cybersecurity
