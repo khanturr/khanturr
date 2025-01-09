@@ -2,10 +2,10 @@
 
 ## 🎸 About Me
 
-I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.A. in Computer Science and Engineering Management. I'm passionate about machine learning, software engineering, and full-stack development.
+I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer Science. I'm passionate about data science, machine learning, and software engineering
 
 - 📍 Based in Boston, MA
-- 🌟 Open to job opportunities in ML and SWE
+- 🌟 Open to job opportunities in DS, ML, and SWE
 - 🎓 Expected graduation: May 2025
 
 ## 👨‍💻 Projects
@@ -14,15 +14,15 @@ I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.A. in Computer
 - Developed a Turing-complete 14 instruction-set universal machine emulator in C.
 ### [Language Translation](https://github.com/khanturr/Language-Translation)
 - Trained an English-to-Mongolian translation model using an encoder-decoder architecture.
+- ### [Movie Recommendation](https://github.com/khanturr/Movie-Recommendation)
+- Built a recommendation system to help guess which movies a user will like.
 ### [Image Compressor](https://github.com/khanturr/Image-Compressor)
 - Created a PPM image compressor using discrete cosine transformation in C.
-### [CyberAlert](https://github.com/khanturr/Image-Compressor)
-- Built a cybersecurity model that analyzes and alerts suspicious network activity in Python.
-### [Playground](https://github.com/khanturr/Image-Compressor)
-- Developed an online code sandbox for web development practice in TypeScript.
+### [MITRE-eCTF-2024](https://github.com/khanturr/MITRE-eCTF-2024)
+- Implemented a supply chain security solution for microcontrollers on a medical device.
 
 ## 💯 Get in Touch
 
-- 📫 Email: [hunter.purevbayar@tufts.edu](mailto:hunter.purevbayar@tufts.edu)
-- 💼 LinkedIn: [Hunter Purevbayar](https://www.linkedin.com/in/hunter-purevbayar-b66630235/)
+- 📫 Email: [hunter.purevbayar@tufts.edu](mailto:khanturp@gmail.com)
+- 💼 LinkedIn: [Hunter Purevbayar](https://www.linkedin.com/in/khanturr/)
 - 🐙 GitHub: [khanturr](https://github.com/khanturr)
