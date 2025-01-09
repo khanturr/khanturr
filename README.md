@@ -14,7 +14,7 @@ I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer
 - Developed a Turing-complete 14 instruction-set universal machine emulator in C.
 ### [Language Translation](https://github.com/khanturr/Language-Translation)
 - Trained an English-to-Mongolian translation model using an encoder-decoder architecture.
-- ### [Movie Recommendation](https://github.com/khanturr/Movie-Recommendation)
+### [Movie Recommendation](https://github.com/khanturr/Movie-Recommendation)
 - Built a recommendation system to help guess which movies a user will like.
 ### [Image Compressor](https://github.com/khanturr/Image-Compressor)
 - Created a PPM image compressor using discrete cosine transformation in C.
