@@ -4,10 +4,6 @@
 
 I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer Science. I'm passionate about data science, machine learning, and software engineering
 
-- 📍 Based in Boston, MA
-- 🌟 Open to job opportunities in DS, ML, and SWE
-- 🎓 Expected graduation: May 2025
-
 ## 👨‍💻 Projects
 
 ### [Virtual Machine](https://github.com/khanturr/Universal-Machine)
@@ -16,6 +12,8 @@ I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer
 - Trained an English-to-Mongolian translation model using an encoder-decoder architecture.
 ### [Movie Recommendation](https://github.com/khanturr/Movie-Recommendation)
 - Built a recommendation system to help guess which movies a user will like.
+### [Ten Nights of Dreams](https://github.com/khanturr/Ten-Nights-of-Dreams)
+- TouchDesigner + BERT Visualization of Natsume Sōseki's "Ten Nights of Dreams"
 ### [Image Compressor](https://github.com/khanturr/Image-Compressor)
 - Created a PPM image compressor using discrete cosine transformation in C.
 ### [MITRE-eCTF-2024](https://github.com/Salpingopharyngeus/Tufts-eCTF2024)
@@ -25,4 +23,3 @@ I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer
 
 - 📫 Email: [hunter.purevbayar@tufts.edu](mailto:khanturp@gmail.com)
 - 💼 LinkedIn: [Hunter Purevbayar](https://www.linkedin.com/in/khanturr/)
-- 🐙 GitHub: [khanturr](https://github.com/khanturr)
