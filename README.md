@@ -18,7 +18,7 @@ I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer
 - Built a recommendation system to help guess which movies a user will like.
 ### [Image Compressor](https://github.com/khanturr/Image-Compressor)
 - Created a PPM image compressor using discrete cosine transformation in C.
-### [MITRE-eCTF-2024](https://github.com/khanturr/MITRE-eCTF-2024)
+### [MITRE-eCTF-2024](https://github.com/Salpingopharyngeus/Tufts-eCTF2024)
 - Implemented a supply chain security solution for microcontrollers on a medical device.
 
 ## 💯 Get in Touch
