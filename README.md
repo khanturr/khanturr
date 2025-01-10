@@ -10,7 +10,7 @@ I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer
 - Developed a Turing-complete 14 instruction-set universal machine emulator in C.
 ### [Language Translation](https://github.com/khanturr/Language-Translation)
 - Trained an English-to-Mongolian translation model using an encoder-decoder architecture.
-### [Movie Recommendation](https://github.com/khanturr/Movie-Recommendation)
+### [Movie Recommendations](https://github.com/khanturr/Movie-Recommendations)
 - Built a recommendation system to help guess which movies a user will like.
 ### [Ten Nights of Dreams](https://github.com/khanturr/Ten-Nights-of-Dreams)
 - TouchDesigner + BERT Visualization of Natsume Sōseki's "Ten Nights of Dreams"
