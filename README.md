@@ -2,9 +2,9 @@
 
 ## 🎸 About Me
 
-I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer Science. I'm passionate about data science, machine learning, and software engineering
+I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer Science. I'm passionate about data science, machine learning, and software engineering.
 
-## 👨‍💻 Projects
+## 👨‍💻 Notable Projects
 
 ### [Virtual Machine](https://github.com/khanturr/Universal-Machine)
 - Developed a Turing-complete 14 instruction-set universal machine emulator in C.
