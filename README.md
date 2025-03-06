@@ -21,5 +21,5 @@ I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer
 
 ## 💯 Get in Touch
 
-- 📫 Email: [hunter.purevbayar@tufts.edu](mailto:khanturp@gmail.com)
+- 📫 Email: [khanturp@gmail.com](mailto:khanturp@gmail.com)
 - 💼 LinkedIn: [Hunter Purevbayar](https://www.linkedin.com/in/khanturr/)
