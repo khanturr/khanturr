@@ -2,7 +2,7 @@
 
 ## 🎸 About Me
 
-I'm Hunter Purevbayar, a senior at Tufts University, pursuing a B.S. in Computer Science. I'm passionate about data science, machine learning, and software engineering.
+I'm Hunter Purevbayar, a Master's student at Tufts University, studying Computer Science. I'm passionate about data science and machine learning.
 
 ## 👨‍💻 Notable Projects
 
